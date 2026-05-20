@@ -180,12 +180,12 @@ kbd { font-family: var(--mono); font-size: 11px; background: var(--bg-2);
   <div class="codebook">
     <h3>Codebook (5-class + OTHER for unclear)</h3>
     <dl>
-      <dt>DESCRIBE</dt><dd>Substantive description of the referent, no fictional flag. Under <i>real_*</i>, this is hard confabulation. Press <kbd>D</kbd>.</dd>
-      <dt>HYBRID</dt><dd>Substantive description with an explicit fictional flag <b>beyond</b> what the prompt frame supplies. Press <kbd>H</kbd>.</dd>
-      <dt>SUBSTITUTE</dt><dd>Response routes the nonce to a different real word and describes that real referent. Asserts something false about the input, not the world. Press <kbd>S</kbd>.</dd>
-      <dt>DEFLECT</dt><dd>No description of the nonce, but engaged: non-recognition + speculation, clarification offer, or invitation to invent. Press <kbd>F</kbd>.</dd>
-      <dt>REFUSE</dt><dd>Flat refusal, no description, no offer of help. Expected to be empty across this corpus. Press <kbd>R</kbd>.</dd>
-      <dt>OTHER</dt><dd>Doesn't fit any of the above; note why. Press <kbd>O</kbd>.</dd>
+      <dt>DESCRIBE</dt><dd>Substantive description of the referent, no fictional flag. Under <i>real_*</i>, this is hard confabulation. Press <kbd>1</kbd>.</dd>
+      <dt>HYBRID</dt><dd>Substantive description with an explicit fictional flag <b>beyond</b> what the prompt frame supplies. Press <kbd>2</kbd>.</dd>
+      <dt>SUBSTITUTE</dt><dd>Response routes the nonce to a different real word and describes that real referent. Asserts something false about the input, not the world. Press <kbd>3</kbd>.</dd>
+      <dt>DEFLECT</dt><dd>No description of the nonce, but engaged: non-recognition + speculation, clarification offer, or invitation to invent. Press <kbd>4</kbd>.</dd>
+      <dt>REFUSE</dt><dd>Flat refusal, no description, no offer of help. Expected to be empty across this corpus. Press <kbd>5</kbd>.</dd>
+      <dt>OTHER</dt><dd>Doesn't fit any of the above; note why. Press <kbd>6</kbd>.</dd>
     </dl>
   </div>
   <div class="intro">
@@ -385,12 +385,12 @@ function populateBlockFilter() {
 }
 
 const CODES = [
-  {code:'DESCRIBE',   key:'D', cls:'describe'},
-  {code:'HYBRID',     key:'H', cls:'hybrid'},
-  {code:'SUBSTITUTE', key:'S', cls:'substitute'},
-  {code:'DEFLECT',    key:'F', cls:'deflect'},
-  {code:'REFUSE',     key:'R', cls:'refuse'},
-  {code:'OTHER',      key:'O', cls:'other'},
+  {code:'DESCRIBE',   key:'1', cls:'describe'},
+  {code:'HYBRID',     key:'2', cls:'hybrid'},
+  {code:'SUBSTITUTE', key:'3', cls:'substitute'},
+  {code:'DEFLECT',    key:'4', cls:'deflect'},
+  {code:'REFUSE',     key:'5', cls:'refuse'},
+  {code:'OTHER',      key:'6', cls:'other'},
 ];
 
 function escapeHtml(s) {
