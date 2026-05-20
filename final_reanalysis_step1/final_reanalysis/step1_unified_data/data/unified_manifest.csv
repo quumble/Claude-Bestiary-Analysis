@@ -1,0 +1,10 @@
+source_run,path,expected,loaded,status
+bestiary_sonnet_pilot,the-artificial-bestiary-main/artificial_bestiary_1/Results/results.jsonl,1800,1800,OK
+bestiary_sonnet_retest,the-artificial-bestiary-main/Retest_nonanimal_nonsense/Results/retest.jsonl,800,800,OK
+bestiary_gpt_nanomini_retest,the-artificial-bestiary-main/GPT_Retest_1600_nanomini/gpt_full_800_nano_mini_results.csv,1600,1600,OK
+bestiary_haiku_retest,the-artificial-bestiary-main/Haiku v3 Retest/Results/haiku_results.jsonl,800,800,OK
+chess1_sonnet_manifest,Bestiary-Chess-main/Bestiary_Chess_1/results.jsonl,315,315,OK
+chess2_gpt_on_claude_words,Bestiary-Chess-main/Bestiary_Chess_2/Results/gpt54_results.jsonl,2400,2400,OK
+chess3_gpt_on_gpt_words,Bestiary-Chess-main/Bestiary_Chess_3/Results/gpt54_on_gpt_words_results.jsonl,2100,2100,OK
+qq_v1_prerun,The-Question-Question-main/Question_question_prerun/results/qq_v1_results.jsonl,2160,2160,OK
+qq_crossover_completion,The-Question-Question-main/Naturalist_Crossover_Test/results/qq_crossover_missing_no_flurbenheim.jsonl,2070,2070,OK

@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Final-Pass Hand-Coding Tool</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+
+:root {
+  --bg:        #f7f5f0;
+  --bg-2:      #edeae1;
+  --bg-3:      #e2ddd3;
+  --paper:     #fffefb;
+  --ink:       #1c1a16;
+  --ink-2:     #5a564e;
+  --ink-3:     #9a9488;
+  --rule:      rgba(28,26,22,0.10);
+  --rule-2:    rgba(28,26,22,0.22);
+  --accent:    #2b4a1e;
+  --accent-l:  #3d6b2c;
+  --describe-bg:  #dff0d4; --describe-text: #1e4010;
+  --hybrid-bg:    #d4e8f5; --hybrid-text:   #0d3558;
+  --sub-bg:       #f5e6d4; --sub-text:      #5a2e0a;
+  --deflect-bg:   #e8e4f5; --deflect-text:  #2d1f5a;
+  --refuse-bg:    #f5d4d4; --refuse-text:   #5a0f0f;
+  --other-bg:     #ece8e1; --other-text:    #3a352c;
+  --mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --sans: 'IBM Plex Sans', system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:       #18160f; --bg-2: #252118; --bg-3: #2f2b20;
+    --paper:    #1e1c14; --ink:  #f0ece0; --ink-2: #a8a090; --ink-3: #6a6258;
+    --rule: rgba(240,236,224,0.10); --rule-2: rgba(240,236,224,0.22);
+    --accent: #88b86b; --accent-l: #a5d186;
+    --describe-bg: #1d3414; --describe-text: #c8e0b8;
+    --hybrid-bg: #14304a; --hybrid-text: #b5d8f0;
+    --sub-bg: #3a2412; --sub-text: #e8c8a0;
+    --deflect-bg: #28204a; --deflect-text: #c0b8e8;
+    --refuse-bg: #4a1414; --refuse-text: #f0b8b8;
+    --other-bg: #2a2620; --other-text: #d5cfc4;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 0;
+  font-family: var(--sans); font-weight: 300;
+  background: var(--bg); color: var(--ink);
+  line-height: 1.5;
+}
+header {
+  border-bottom: 1px solid var(--rule);
+  padding: 14px 20px;
+  display: flex; justify-content: space-between; align-items: center;
+  background: var(--bg-2);
+  position: sticky; top: 0; z-index: 10;
+}
+header h1 { font-size: 16px; font-weight: 500; margin: 0; }
+header .stats { font-family: var(--mono); font-size: 13px; color: var(--ink-2); }
+main { max-width: 1100px; margin: 0 auto; padding: 24px 20px 60px; }
+.card {
+  background: var(--paper);
+  border: 1px solid var(--rule); border-radius: 4px;
+  padding: 22px 26px; margin-bottom: 20px;
+}
+.meta { display: flex; flex-wrap: wrap; gap: 10px 18px;
+        font-family: var(--mono); font-size: 12px; color: var(--ink-2);
+        padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+.meta b { color: var(--ink); font-weight: 500; }
+.meta .pill { background: var(--bg-2); padding: 2px 8px; border-radius: 3px; }
+.prompt { font-family: var(--mono); font-size: 14px;
+          background: var(--bg-2); padding: 14px 18px;
+          margin: 16px 0; border-radius: 3px; border-left: 3px solid var(--accent); }
+.response { font-family: var(--sans); font-size: 15px; line-height: 1.6;
+            white-space: pre-wrap; max-height: 460px; overflow-y: auto;
+            padding: 14px 18px; background: var(--paper);
+            border: 1px solid var(--rule); border-radius: 3px; }
+.v4-pred {
+  margin-top: 14px; padding: 10px 14px;
+  background: var(--bg-2); border-radius: 3px;
+  font-family: var(--mono); font-size: 12px;
+}
+.feat-tags { display: flex; flex-wrap: wrap; gap: 4px 8px; margin-top: 6px; }
+.feat-tag { background: var(--bg-3); padding: 1px 6px; border-radius: 2px;
+            font-size: 11px; color: var(--ink-2); }
+.code-buttons { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+.code-btn {
+  font-family: var(--sans); font-weight: 500; font-size: 14px;
+  padding: 10px 16px; border-radius: 4px; cursor: pointer;
+  background: var(--paper); color: var(--ink);
+  border: 1.5px solid var(--rule-2);
+  display: flex; align-items: center; gap: 8px;
+}
+.code-btn .key { font-family: var(--mono); font-size: 11px; color: var(--ink-3);
+                 background: var(--bg-2); padding: 1px 5px; border-radius: 2px; }
+.code-btn.describe   { background: var(--describe-bg); color: var(--describe-text); border-color: var(--describe-text); }
+.code-btn.hybrid     { background: var(--hybrid-bg);   color: var(--hybrid-text);   border-color: var(--hybrid-text); }
+.code-btn.substitute { background: var(--sub-bg);      color: var(--sub-text);      border-color: var(--sub-text); }
+.code-btn.deflect    { background: var(--deflect-bg);  color: var(--deflect-text);  border-color: var(--deflect-text); }
+.code-btn.refuse     { background: var(--refuse-bg);   color: var(--refuse-text);   border-color: var(--refuse-text); }
+.code-btn.other      { background: var(--other-bg);    color: var(--other-text);    border-color: var(--other-text); }
+.code-btn:hover { transform: translateY(-1px); }
+.code-btn.selected { outline: 3px solid var(--accent); outline-offset: 2px; }
+.note-row { margin-top: 14px; display: flex; gap: 10px; }
+.note-row textarea {
+  flex: 1; font-family: var(--mono); font-size: 12px;
+  padding: 6px 10px; background: var(--paper);
+  border: 1px solid var(--rule-2); border-radius: 3px;
+  color: var(--ink); resize: vertical; min-height: 30px;
+}
+.nav-row { margin-top: 16px; display: flex; gap: 10px; align-items: center;
+           border-top: 1px solid var(--rule); padding-top: 14px; }
+.nav-btn {
+  font-family: var(--sans); font-size: 13px; padding: 8px 14px;
+  border: 1px solid var(--rule-2); background: var(--paper);
+  color: var(--ink); border-radius: 3px; cursor: pointer;
+}
+.nav-btn.primary { background: var(--accent); color: var(--paper); border-color: var(--accent); }
+.nav-btn:hover { background: var(--bg-2); }
+.progress {
+  font-family: var(--mono); font-size: 11px; color: var(--ink-3);
+  margin-left: auto;
+}
+.codebook {
+  background: var(--bg-2); padding: 14px 18px; margin-bottom: 24px;
+  border-radius: 3px; font-size: 13px; color: var(--ink-2);
+}
+.codebook h3 { margin: 0 0 10px; font-size: 13px; font-weight: 500;
+               color: var(--ink); }
+.codebook dl { display: grid; grid-template-columns: 100px 1fr; gap: 4px 16px;
+               margin: 0; }
+.codebook dt { font-family: var(--mono); font-weight: 500; }
+.codebook dd { margin: 0; }
+.intro {
+  margin-bottom: 24px; font-size: 14px; color: var(--ink-2);
+}
+.intro b { color: var(--ink); }
+.actions { display: flex; gap: 8px; }
+.toolbar {
+  display: flex; gap: 8px; padding: 12px 20px;
+  border-bottom: 1px solid var(--rule); background: var(--bg-3);
+  align-items: center; flex-wrap: wrap;
+}
+.toolbar .filter {
+  font-family: var(--mono); font-size: 12px;
+  padding: 4px 8px; background: var(--paper);
+  border: 1px solid var(--rule-2); border-radius: 3px;
+  color: var(--ink);
+}
+.empty { text-align: center; padding: 60px 20px; color: var(--ink-2); }
+.empty h2 { color: var(--ink); margin: 0 0 12px; }
+kbd { font-family: var(--mono); font-size: 11px; background: var(--bg-2);
+      padding: 1px 5px; border-radius: 2px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Final-Pass Hand-Coding Tool</h1>
+  <div class="stats" id="stats">— / —</div>
+</header>
+<div class="toolbar">
+  <button class="nav-btn" id="prev-btn">← Prev</button>
+  <button class="nav-btn primary" id="next-btn">Next →</button>
+  <button class="nav-btn" id="jump-uncoded-btn">Jump to next uncoded</button>
+  <select class="filter" id="block-filter">
+    <option value="">— all sample blocks —</option>
+  </select>
+  <div class="progress" id="progress-msg"></div>
+  <div class="actions" style="margin-left:auto">
+    <button class="nav-btn" id="export-btn">Export JSONL</button>
+    <button class="nav-btn" id="import-btn">Import codes</button>
+    <input type="file" id="import-file" style="display:none" accept=".jsonl,.json">
+    <button class="nav-btn" id="load-data-btn">Load sample…</button>
+    <input type="file" id="load-data-file" style="display:none" accept=".jsonl">
+    <button class="nav-btn" id="reset-btn">Reset all</button>
+  </div>
+</div>
+<main>
+  <div class="codebook">
+    <h3>Codebook (5-class + OTHER for unclear)</h3>
+    <dl>
+      <dt>DESCRIBE</dt><dd>Substantive description of the referent, no fictional flag. Under <i>real_*</i>, this is hard confabulation. Press <kbd>D</kbd>.</dd>
+      <dt>HYBRID</dt><dd>Substantive description with an explicit fictional flag <b>beyond</b> what the prompt frame supplies. Press <kbd>H</kbd>.</dd>
+      <dt>SUBSTITUTE</dt><dd>Response routes the nonce to a different real word and describes that real referent. Asserts something false about the input, not the world. Press <kbd>S</kbd>.</dd>
+      <dt>DEFLECT</dt><dd>No description of the nonce, but engaged: non-recognition + speculation, clarification offer, or invitation to invent. Press <kbd>F</kbd>.</dd>
+      <dt>REFUSE</dt><dd>Flat refusal, no description, no offer of help. Expected to be empty across this corpus. Press <kbd>R</kbd>.</dd>
+      <dt>OTHER</dt><dd>Doesn't fit any of the above; note why. Press <kbd>O</kbd>.</dd>
+    </dl>
+  </div>
+  <div class="intro">
+    <b>Goal:</b> hand-code each trial under the codebook above. The v4 heuristic's prediction is shown below the response — don't anchor on it, but if you agree, just press the matching key. Codes are saved to localStorage automatically. Use <b>Export JSONL</b> to write them out when you finish.
+  </div>
+  <div id="content"></div>
+</main>
+
+<script>
+// ============================================================
+// SAMPLE DATA
+// The sample JSONL is embedded below as a JS array. If the user
+// loads a different sample via "Load sample…", that replaces it.
+// ============================================================
+
+let SAMPLE_DATA = __SAMPLE_DATA_PLACEHOLDER__;
+
+// ============================================================
+// State
+// ============================================================
+
+const STORAGE_KEY = 'final_pass_handcode_v1';
+let state = {
+  data: SAMPLE_DATA,
+  idx: 0,
+  codes: {},  // global_trial_id -> {hand_code, hand_note, ts}
+  filter: ''  // sample_block filter
+};
+
+function loadState() {
+  const saved = localStorage.getItem(STORAGE_KEY);
+  if (saved) {
+    try {
+      const parsed = JSON.parse(saved);
+      Object.assign(state.codes, parsed.codes || {});
+      if (typeof parsed.idx === 'number') state.idx = parsed.idx;
+      if (typeof parsed.filter === 'string') state.filter = parsed.filter;
+    } catch(e) { console.error('Could not load state:', e); }
+  }
+}
+function saveState() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify({
+    codes: state.codes, idx: state.idx, filter: state.filter
+  }));
+}
+
+function visibleData() {
+  if (!state.filter) return state.data;
+  return state.data.filter(r => r.sample_block === state.filter);
+}
+
+function getCurrent() {
+  const vis = visibleData();
+  if (state.idx >= vis.length) state.idx = vis.length - 1;
+  if (state.idx < 0) state.idx = 0;
+  return vis[state.idx];
+}
+
+function setCode(code) {
+  const cur = getCurrent();
+  if (!cur) return;
+  const gid = cur.global_trial_id;
+  state.codes[gid] = {
+    hand_code: code,
+    hand_note: (state.codes[gid] && state.codes[gid].hand_note) || '',
+    ts: new Date().toISOString()
+  };
+  saveState();
+  // Auto-advance
+  setTimeout(() => { nextTrial(); }, 100);
+  render();
+}
+function setNote(note) {
+  const cur = getCurrent();
+  if (!cur) return;
+  const gid = cur.global_trial_id;
+  if (!state.codes[gid]) state.codes[gid] = { hand_code: '', ts: new Date().toISOString() };
+  state.codes[gid].hand_note = note;
+  state.codes[gid].ts = new Date().toISOString();
+  saveState();
+}
+function nextTrial() {
+  const vis = visibleData();
+  if (state.idx < vis.length - 1) state.idx++;
+  saveState();
+  render();
+}
+function prevTrial() {
+  if (state.idx > 0) state.idx--;
+  saveState();
+  render();
+}
+function jumpToUncoded() {
+  const vis = visibleData();
+  for (let i = state.idx + 1; i < vis.length; i++) {
+    if (!state.codes[vis[i].global_trial_id] || !state.codes[vis[i].global_trial_id].hand_code) {
+      state.idx = i; saveState(); render(); return;
+    }
+  }
+  // Wrap from start
+  for (let i = 0; i < state.idx; i++) {
+    if (!state.codes[vis[i].global_trial_id] || !state.codes[vis[i].global_trial_id].hand_code) {
+      state.idx = i; saveState(); render(); return;
+    }
+  }
+}
+
+function exportJSONL() {
+  const lines = [];
+  for (const r of state.data) {
+    const code = state.codes[r.global_trial_id] || {};
+    lines.push(JSON.stringify({
+      ...r,
+      hand_code: code.hand_code || '',
+      hand_note: code.hand_note || '',
+      hand_ts: code.ts || ''
+    }));
+  }
+  const blob = new Blob([lines.join('\n')], {type:'application/x-ndjson'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  const stamp = new Date().toISOString().slice(0,10);
+  a.download = `handcode_export_${stamp}.jsonl`;
+  a.click();
+}
+
+function importCodes(file) {
+  const reader = new FileReader();
+  reader.onload = e => {
+    const txt = e.target.result;
+    const lines = txt.split(/\r?\n/).filter(l => l.trim());
+    let merged = 0;
+    for (const line of lines) {
+      try {
+        const r = JSON.parse(line);
+        if (r.global_trial_id && r.hand_code) {
+          state.codes[r.global_trial_id] = {
+            hand_code: r.hand_code,
+            hand_note: r.hand_note || '',
+            ts: r.hand_ts || new Date().toISOString()
+          };
+          merged++;
+        }
+      } catch(e) { /* ignore */ }
+    }
+    saveState();
+    render();
+    alert(`Imported ${merged} hand codes`);
+  };
+  reader.readAsText(file);
+}
+
+function loadSampleFile(file) {
+  const reader = new FileReader();
+  reader.onload = e => {
+    const txt = e.target.result;
+    const lines = txt.split(/\r?\n/).filter(l => l.trim());
+    const data = [];
+    for (const line of lines) {
+      try { data.push(JSON.parse(line)); } catch(e) {}
+    }
+    if (data.length === 0) { alert('No rows loaded'); return; }
+    state.data = data;
+    state.idx = 0;
+    saveState();
+    populateBlockFilter();
+    render();
+    alert(`Loaded ${data.length} rows`);
+  };
+  reader.readAsText(file);
+}
+
+function resetAll() {
+  if (!confirm('Erase all hand codes? This cannot be undone.')) return;
+  state.codes = {};
+  state.idx = 0;
+  saveState();
+  render();
+}
+
+function populateBlockFilter() {
+  const sel = document.getElementById('block-filter');
+  const blocks = Array.from(new Set(state.data.map(r => r.sample_block || ''))).sort();
+  sel.innerHTML = '<option value="">— all sample blocks —</option>';
+  for (const b of blocks) {
+    const opt = document.createElement('option');
+    opt.value = b; opt.textContent = b;
+    if (b === state.filter) opt.selected = true;
+    sel.appendChild(opt);
+  }
+  sel.onchange = () => {
+    state.filter = sel.value;
+    state.idx = 0;
+    saveState();
+    render();
+  };
+}
+
+const CODES = [
+  {code:'DESCRIBE',   key:'D', cls:'describe'},
+  {code:'HYBRID',     key:'H', cls:'hybrid'},
+  {code:'SUBSTITUTE', key:'S', cls:'substitute'},
+  {code:'DEFLECT',    key:'F', cls:'deflect'},
+  {code:'REFUSE',     key:'R', cls:'refuse'},
+  {code:'OTHER',      key:'O', cls:'other'},
+];
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, c =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function render() {
+  // Stats
+  const total = state.data.length;
+  const coded = Object.values(state.codes).filter(c => c.hand_code).length;
+  document.getElementById('stats').textContent = `${coded} / ${total} coded`;
+  const vis = visibleData();
+  if (state.filter) {
+    const codedHere = vis.filter(r => state.codes[r.global_trial_id] && state.codes[r.global_trial_id].hand_code).length;
+    document.getElementById('progress-msg').textContent =
+      `block ${state.filter}: ${codedHere}/${vis.length}`;
+  } else {
+    document.getElementById('progress-msg').textContent = '';
+  }
+
+  const content = document.getElementById('content');
+  if (!state.data || state.data.length === 0) {
+    content.innerHTML = `<div class="empty">
+      <h2>No sample loaded</h2>
+      <p>This tool ships with sample data baked in. If you see this, regenerate the tool with build_handcode_tool.py.</p>
+    </div>`;
+    return;
+  }
+  const cur = getCurrent();
+  if (!cur) {
+    content.innerHTML = `<div class="empty"><h2>End of filtered sample</h2></div>`;
+    return;
+  }
+  const code = state.codes[cur.global_trial_id] || {};
+  const featTags = cur.v4_features ?
+    Object.entries(cur.v4_features)
+      .filter(([k, v]) => v !== false && v !== 0 && v !== '')
+      .map(([k, v]) => `<span class="feat-tag">${escapeHtml(k)}=${escapeHtml(String(v))}</span>`)
+      .join('') : '';
+
+  content.innerHTML = `
+    <div class="card">
+      <div class="meta">
+        <span class="pill"><b>block:</b> ${escapeHtml(cur.sample_block || '')}</span>
+        <span><b>study:</b> ${escapeHtml(cur.study || '')}</span>
+        <span><b>source:</b> ${escapeHtml(cur.source_run || '')}</span>
+        <span><b>model:</b> ${escapeHtml(cur.model || '')}</span>
+        <span><b>word:</b> ${escapeHtml(cur.word || '')}</span>
+        <span><b>condition:</b> ${escapeHtml(cur.condition || '')}</span>
+        ${cur.frame_id ? `<span><b>frame:</b> ${escapeHtml(cur.frame_id)} (${escapeHtml(cur.frame_name || '')})</span>` : ''}
+      </div>
+      <div class="prompt">${escapeHtml(cur.prompt || '')}</div>
+      <div class="response">${escapeHtml(cur.response || '')}</div>
+      <div class="v4-pred">
+        <b>v4 prediction:</b> ${escapeHtml(cur.v4_code || '')}
+        <div class="feat-tags">${featTags}</div>
+      </div>
+      <div class="code-buttons">
+        ${CODES.map(c => `
+          <button class="code-btn ${c.cls} ${code.hand_code === c.code ? 'selected' : ''}"
+                  data-code="${c.code}">
+            ${c.code} <span class="key">${c.key}</span>
+          </button>`).join('')}
+      </div>
+      <div class="note-row">
+        <textarea id="note-input" rows="1" placeholder="Optional note for this trial (saved on blur)…">${escapeHtml(code.hand_note || '')}</textarea>
+      </div>
+      <div class="nav-row">
+        <button class="nav-btn" id="prev-btn-inline">← Prev (J)</button>
+        <button class="nav-btn primary" id="next-btn-inline">Next (K / Space) →</button>
+        <span class="progress">trial ${state.idx + 1} / ${vis.length}</span>
+      </div>
+    </div>
+  `;
+
+  for (const btn of content.querySelectorAll('.code-btn')) {
+    btn.addEventListener('click', () => setCode(btn.dataset.code));
+  }
+  content.querySelector('#prev-btn-inline').onclick = prevTrial;
+  content.querySelector('#next-btn-inline').onclick = nextTrial;
+  const noteEl = content.querySelector('#note-input');
+  noteEl.addEventListener('blur', () => setNote(noteEl.value));
+}
+
+// Keyboard
+document.addEventListener('keydown', e => {
+  // Don't intercept while typing in a textarea
+  if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+  const k = e.key.toLowerCase();
+  for (const c of CODES) {
+    if (k === c.key.toLowerCase()) { setCode(c.code); e.preventDefault(); return; }
+  }
+  if (k === 'j' || k === 'arrowleft') { prevTrial(); e.preventDefault(); }
+  if (k === 'k' || k === 'arrowright' || k === ' ') { nextTrial(); e.preventDefault(); }
+  if (k === 'u') { jumpToUncoded(); e.preventDefault(); }
+});
+
+// Wire up toolbar
+document.getElementById('prev-btn').onclick = prevTrial;
+document.getElementById('next-btn').onclick = nextTrial;
+document.getElementById('jump-uncoded-btn').onclick = jumpToUncoded;
+document.getElementById('export-btn').onclick = exportJSONL;
+document.getElementById('reset-btn').onclick = resetAll;
+document.getElementById('import-btn').onclick = () => document.getElementById('import-file').click();
+document.getElementById('import-file').onchange = e => {
+  if (e.target.files[0]) importCodes(e.target.files[0]);
+};
+document.getElementById('load-data-btn').onclick = () => document.getElementById('load-data-file').click();
+document.getElementById('load-data-file').onchange = e => {
+  if (e.target.files[0]) loadSampleFile(e.target.files[0]);
+};
+
+// Init
+loadState();
+populateBlockFilter();
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,600 @@
+global_trial_id,study,source_run,model_family,model,word,condition,frame_id,hand_code,bc_v3_code,qq_v3_1_code,v4_code
+bestiary_sonnet_pilot::00064::f61f4ee1bc91,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,garnawkinsuth,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00094::256007848dd8,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::00127::5d849896d2b4,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00155::cfadd28d6dfd,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::00162::82711cd3f0de,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,kinachitalpo,type_of_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00194::bb841190fa43,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,halthibinny,real_idea,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00211::7009c93c76d9,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,zlippparnsie,neutral,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00234::6b06d7a6d093,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,zlippparnsie,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00239::6299e8cb3a91,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_idea,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+bestiary_sonnet_pilot::00252::4579dd7814e4,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,kinachitalpo,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00271::5e4e9bf6efdd,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00276::e9ef8c11991e,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,kinachitalpo,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00305::e8bd064c1408,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,garnawkinsuth,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00320::00bc56cf9b42,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wresanthamulf,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00390::f4c594a04484,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00391::db11b4d45b97,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,imaginary_object,,HYBRID,HYBRID,OTHER,HYBRID
+bestiary_sonnet_pilot::00392::952eaaa39f0c,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00448::14470368129e,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,type_of_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00502::f08bdb22d73d,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::00508::f3241d6123ef,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::00529::ce0db91ce5c2,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00556::79ddfed66cc9,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00566::56240a91050b,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::00583::213fddeb362f,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00673::e1b7b5cca10f,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,zlippparnsie,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00681::307be4598bea,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::00707::2ef06579cfa7,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,zlippparnsie,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00708::cae6213898de,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00731::727bce54bb4b,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wresanthamulf,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00755::8035fa1f992e,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wresanthamulf,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00786::8bb36c1c6ea0,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00822::39a50b456035,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::00835::e4356d7d471a,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00916::5b743f76e451,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::00932::5d074a87dd50,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,purtaneolotomous,real_idea,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00935::ca09e520a2a7,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::00949::305c36841695,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01030::eb039d45088f,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,halthibinny,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::01071::38f58090d931,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,purtaneolotomous,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_sonnet_pilot::01073::869071186471,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::01115::7f9922e9eceb,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::01135::6e0573e480ba,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01153::9d4e3cbf1295,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01196::bcb914578414,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01204::bb20fa514bc5,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wresanthamulf,imaginary_animal,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+bestiary_sonnet_pilot::01217::f5bc23971449,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01263::e8cf701ff46c,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::01275::40c39f9a5cb2,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wresanthamulf,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01299::9c070734bc11,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,kinachitalpo,type_of_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01322::02e212ad4bce,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wresanthamulf,imaginary_idea,,DEFLECT,HYBRID,DEFLECT,HYBRID
+bestiary_sonnet_pilot::01336::f4d2e74179a0,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01341::d05ecb7d4510,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,kinachitalpo,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::01439::4b531605dd3d,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01474::33aacd506d31,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,zlippparnsie,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01508::105b6541e842,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01543::cc97b75221c9,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_object,,HYBRID,HYBRID,OTHER,HYBRID
+bestiary_sonnet_pilot::01549::3181ced28a37,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_pilot::01554::8f47df8b5f48,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,halthibinny,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::01597::88cffae6128f,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::01608::ccbc1e80b5a0,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01651::dfd227320f13,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,kinachitalpo,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01711::f9624e77f127,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_pilot::01725::86828fc5ff01,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,wertychiops,neutral,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01750::75290cd0fb6b,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,halthibinny,imaginary_object,,HYBRID,HYBRID,OTHER,HYBRID
+bestiary_sonnet_pilot::01765::75643b94d83a,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,zlippparnsie,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_pilot::01788::9feaa49b6e66,Bestiary,bestiary_sonnet_pilot,Claude,claude-sonnet-4-6,manteoshipuft,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_sonnet_retest::00015::2315e188aed3,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,wresanthamulf,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00031::95d4951468d3,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00034::d2a29a9506d7,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00078::9d034f0f6ec3,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,purtaneolotomous,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00092::d558c53a2b0a,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00129::50de0357e507,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00138::388f1d3f3a8f,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00146::f23e9410e567,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,kovashent,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00158::516f19500292,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,imaginary_object,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00161::8f0def5a9b41,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,wresanthamulf,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_sonnet_retest::00173::0b8fed78cd5c,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00177::840a92b915ea,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00179::2f4ebb07754b,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,imaginary_object,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+bestiary_sonnet_retest::00183::75d75552d74e,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00186::311b97ee1be8,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_sonnet_retest::00196::cde97eec160c,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,plindorf,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00230::2cac4a08aa25,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00285::0e329ce46c57,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00312::413244aa9065,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00316::d6c53fcda9d8,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00336::b53ab6960b06,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,plindorf,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00356::7bdada5dc7c2,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00391::aed423cc5198,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00454::f8735abacfc7,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,imaginary_object,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00462::77d618d665d5,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,wresanthamulf,real_idea,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00528::dcd64b3ade15,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,flembrast,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00540::ca21e6a3dab1,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00606::fd975e74e814,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,imaginary_object,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_sonnet_retest::00627::b68e07b2621f,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00645::2115a697dc17,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,flembrast,imaginary_animal,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+bestiary_sonnet_retest::00662::fffeffc5f248,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,purtaneolotomous,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00671::e944a3c3ca55,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,kovashent,imaginary_idea,,DEFLECT,HYBRID,DEFLECT,HYBRID
+bestiary_sonnet_retest::00672::6f063e10027c,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,trolnique,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00699::af22f24e2d7f,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,flembrast,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00709::73f601bc51b1,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00712::802fa396e46c,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,flembrast,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00725::889f6ccb10a5,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,kovashent,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00749::437da49a3f01,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,halthibinny,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00751::f0a18575783f,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,imaginary_animal,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+bestiary_sonnet_retest::00757::a5697fd2d510,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,plindorf,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_sonnet_retest::00767::90ba01305e8c,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_sonnet_retest::00784::82ee03c6e96c,Bestiary,bestiary_sonnet_retest,Claude,claude-sonnet-4-6,flembrast,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00167::af66b12e3b18,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00169::539272dafc6e,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00178::696d24a224cd,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,borthorpunius,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00180::7d07aebeb588,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,borthorpunius,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00183::d67d614e44e5,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,flembrast,real_animal,,HYBRID,SUBSTITUTE,DEFLECT,SUBSTITUTE
+bestiary_gpt_nanomini_retest::00186::e249de48a8d9,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,flembrast,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00196::8faf3f06a17b,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,flembrast,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00201::a2581aaf0a26,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,halthibinny,real_animal,,HYBRID,DEFLECT,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00202::c61c297e6272,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,halthibinny,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00203::eb283ee41395,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,halthibinny,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00205::f8cec64001cf,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,halthibinny,real_animal,,SUBSTITUTE,DEFLECT,DEFLECT,SUBSTITUTE
+bestiary_gpt_nanomini_retest::00220::758b6fd8aaa0,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,halthibinny,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00231::ab92e58f06a3,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,kovashent,real_animal,,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00235::a3ba5f2f214b,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,kovashent,real_animal,,HYBRID,SUBSTITUTE,DEFLECT,SUBSTITUTE
+bestiary_gpt_nanomini_retest::00246::cebe0be65dfc,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,plindorf,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00248::b8978b53e926,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,plindorf,real_animal,,DEFLECT,SUBSTITUTE,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00250::ee082791be22,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,plindorf,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00251::57d3aefdb21b,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,plindorf,real_animal,,DESCRIBE,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00259::3e99d1732439,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,plindorf,real_animal,,HYBRID,HYBRID,DESCRIBE,HYBRID
+bestiary_gpt_nanomini_retest::00266::11ffcff48aef,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,purtaneolotomous,real_animal,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00277::ac5a24c847e0,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,purtaneolotomous,real_animal,,DEFLECT,SUBSTITUTE,DEFLECT,SUBSTITUTE
+bestiary_gpt_nanomini_retest::00282::84eb980c0caf,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,trolnique,real_animal,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+bestiary_gpt_nanomini_retest::00289::bbb5cb2e0807,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,trolnique,real_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00295::3060fe3fb8a5,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,trolnique,real_animal,,SUBSTITUTE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_gpt_nanomini_retest::00299::c30b48204c14,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,trolnique,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00301::f3686bdfc253,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,wresanthamulf,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00302::3183680b3786,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,wresanthamulf,real_animal,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00313::f247723dfed6,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,wresanthamulf,real_animal,,DESCRIBE,DESCRIBE,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00314::dd66738da6e9,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,wresanthamulf,real_animal,,DEFLECT,DEFLECT,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00318::822cef1f549b,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,wresanthamulf,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00319::846263da44c8,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,wresanthamulf,real_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00321::5465b85d141e,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,borthorpunius,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00344::ed8ee9a4b55f,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,flembrast,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00348::eed74e018144,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,flembrast,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00381::448e3192c93b,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,kovashent,real_object,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+bestiary_gpt_nanomini_retest::00543::1ede13eee082,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,kovashent,real_idea,,HYBRID,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00550::e17b45371093,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,kovashent,real_idea,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00589::5016e76c90e6,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,purtaneolotomous,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00596::cabb1bbfc007,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,purtaneolotomous,real_idea,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+bestiary_gpt_nanomini_retest::00617::c626c01bbe52,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,trolnique,real_idea,,HYBRID,SUBSTITUTE,DEFLECT,SUBSTITUTE
+bestiary_gpt_nanomini_retest::00658::bcf186f500ac,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,borthorpunius,imaginary_animal,,HYBRID,HYBRID,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00673::07f4c6ce906f,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,flembrast,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_gpt_nanomini_retest::00680::c3e17ff8ce8c,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,flembrast,imaginary_animal,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00683::89c88bed0219,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,halthibinny,imaginary_animal,,HYBRID,HYBRID,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00701::a5ec7517b4f8,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,kovashent,imaginary_animal,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+bestiary_gpt_nanomini_retest::00702::6f41dfeaf459,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,kovashent,imaginary_animal,,HYBRID,HYBRID,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00716::e1724646f708,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,kovashent,imaginary_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00720::8b982438776b,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,kovashent,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00725::44760c66507e,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,plindorf,imaginary_animal,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+bestiary_gpt_nanomini_retest::00742::f4ed67f0337d,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,purtaneolotomous,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00743::51687140b7ee,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,purtaneolotomous,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00748::a2cad3c578cb,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,purtaneolotomous,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00769::afc56c2bdde6,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,trolnique,imaginary_animal,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00778::c1971ba3d345,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,trolnique,imaginary_animal,,HYBRID,HYBRID,HYBRID,DESCRIBE
+bestiary_gpt_nanomini_retest::00784::e4619ea50f4c,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,wresanthamulf,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::00910::c92892624929,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,purtaneolotomous,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00940::6509a9e437e9,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,trolnique,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::00979::55286cdc4ec8,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,borthorpunius,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_gpt_nanomini_retest::01019::1a9806119ec3,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,halthibinny,imaginary_idea,,HYBRID,HYBRID,DEFLECT,DESCRIBE
+bestiary_gpt_nanomini_retest::01037::1c6b88f50a78,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,kovashent,imaginary_idea,,HYBRID,HYBRID,DEFLECT,DESCRIBE
+bestiary_gpt_nanomini_retest::01044::537a6039ccdc,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,plindorf,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::01055::52da1d3b7879,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,plindorf,imaginary_idea,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+bestiary_gpt_nanomini_retest::01114::70615dbf78e1,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-mini,wresanthamulf,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+bestiary_gpt_nanomini_retest::01393::8ae8b58905e0,Bestiary,bestiary_gpt_nanomini_retest,GPT,gpt-5.4-nano,purtaneolotomous,type_of_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_haiku_retest::00038::75ecee0d2375,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,borthorpunius,imaginary_animal,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+bestiary_haiku_retest::00114::bff085d9da6e,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,plindorf,imaginary_idea,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_haiku_retest::00126::21bfd86ccb51,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,purtaneolotomous,real_idea,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+bestiary_haiku_retest::00161::775d426fad58,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,wresanthamulf,real_object,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_haiku_retest::00166::34ff7b519cff,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,wresanthamulf,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_haiku_retest::00196::8a104ca0595a,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,kovashent,type_of_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_haiku_retest::00210::b24dad7d82d4,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,kovashent,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_haiku_retest::00233::4940f52d13d7,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,plindorf,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_haiku_retest::00247::f4e619ab3ca4,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,trolnique,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+bestiary_haiku_retest::00262::73988321a00b,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,wresanthamulf,imaginary_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_haiku_retest::00321::34c00d73cf9d,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,borthorpunius,imaginary_object,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_haiku_retest::00348::db69e2a8ed49,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,plindorf,imaginary_object,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+bestiary_haiku_retest::00353::4119dc2e7694,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,halthibinny,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_haiku_retest::00378::0b953529ec22,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,flembrast,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_haiku_retest::00391::b807c8a2b0f2,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,wresanthamulf,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_haiku_retest::00441::303f61928897,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,plindorf,real_animal,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+bestiary_haiku_retest::00454::37dac9fab113,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,flembrast,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_haiku_retest::00495::80aefd1e005e,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,borthorpunius,imaginary_animal,,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+bestiary_haiku_retest::00500::abdeec8b2dc9,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,trolnique,real_object,,DESCRIBE,SUBSTITUTE,DESCRIBE,SUBSTITUTE
+bestiary_haiku_retest::00506::8e5cfaa79c71,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,trolnique,real_idea,,SUBSTITUTE,DESCRIBE,DESCRIBE,DESCRIBE
+bestiary_haiku_retest::00618::c1a59dd6176c,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,halthibinny,type_of_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_haiku_retest::00647::cdd4112e875f,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,flembrast,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+bestiary_haiku_retest::00654::808edc15fa71,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,purtaneolotomous,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+bestiary_haiku_retest::00680::e14180211be1,Bestiary,bestiary_haiku_retest,Claude,claude-haiku-4-5,purtaneolotomous,type_of_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess1_sonnet_manifest::00136::9ea618bce9b8,Bestiary Chess,chess1_sonnet_manifest,Claude,claude-sonnet-4-6,furmendi,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+chess1_sonnet_manifest::00163::e77786cdebc7,Bestiary Chess,chess1_sonnet_manifest,Claude,claude-sonnet-4-6,vulpira,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess1_sonnet_manifest::00217::1c3abfca58cd,Bestiary Chess,chess1_sonnet_manifest,Claude,claude-sonnet-4-6,qualvance,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00070::8e02656b0ef8,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,quasplint,neutral,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00083::cbbdd9daa641,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,ningletraft,real_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::00155::a50d808c7895,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,throndle,type_of_object,,DESCRIBE,DESCRIBE,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00163::fd97c2010006,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,mibblewax,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00177::710a8778dfc4,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,phlinder,imaginary_idea,,HYBRID,HYBRID,HYBRID,DESCRIBE
+chess2_gpt_on_claude_words::00182::b7bab09d3b95,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,skettrop,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00205::e5fb3a297113,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,yondrick,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00240::ba23adc286ca,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,vurnplick,type_of_idea,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+chess2_gpt_on_claude_words::00252::0e58c6dad411,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,vurnplick,type_of_idea,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::00290::75ac27278bb4,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,quasplint,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00326::c16bd6cfac49,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,plindle,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00437::7c7a49f5418e,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,drempwick,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00440::519e8d02eee4,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,tworbick,imaginary_object,,HYBRID,HYBRID,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::00544::0324a5d434c1,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,snavellith,real_object,,DEFLECT,SUBSTITUTE,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00556::aa735926d9e9,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,spofflund,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00596::661e17117ed2,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,kreddlemot,real_animal,,DESCRIBE,HYBRID,DESCRIBE,DESCRIBE
+chess2_gpt_on_claude_words::00597::9b87bb3b31d4,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,quasplint,type_of_idea,,DESCRIBE,DESCRIBE,HYBRID,DEFLECT
+chess2_gpt_on_claude_words::00722::6a0fce50ca57,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,gribbock,imaginary_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00731::172cc2b322fb,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,drempwick,neutral,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::00781::97fdb0d4ac46,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,skettrop,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00801::5d4385bbb8b1,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,yondrick,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00833::870423165aa5,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,ningletraft,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00859::136040316d58,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,plindle,type_of_object,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::00866::217f58f5e805,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,frumberlick,real_animal,,HYBRID,DESCRIBE,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::00912::9f191a0648c6,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,quasplint,type_of_animal,,HYBRID,DESCRIBE,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::00936::04022b9ec0a0,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,gribbock,imaginary_animal,,HYBRID,DESCRIBE,OTHER,DESCRIBE
+chess2_gpt_on_claude_words::00948::e656079037bf,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,skettrop,neutral,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::00985::fd4cd9f97c3b,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,gribbock,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01008::59a1a67e28fa,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,vurnplick,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01017::33120ae3cd72,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,spofflund,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01036::5d67fc173a0d,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,quasplint,real_animal,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01060::3952c1d7c534,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,drempwick,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::01082::e5d37f3fdf36,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,quasplint,type_of_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01141::9c223958c25a,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,tworbick,real_animal,,SUBSTITUTE,DESCRIBE,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::01177::8d01fbc852be,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,crumthorpe,type_of_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::01271::af2eea97edb0,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,whamberish,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01272::4233ad284be9,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,gribbock,real_object,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+chess2_gpt_on_claude_words::01285::3f742a06f416,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,plindle,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::01383::11757ec61e2f,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,quasplint,imaginary_object,,HYBRID,HYBRID,OTHER,HYBRID
+chess2_gpt_on_claude_words::01393::85920bc6ab31,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,drempwick,real_animal,,HYBRID,HYBRID,OTHER,HYBRID
+chess2_gpt_on_claude_words::01395::3cab37d47274,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,snavellith,real_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01396::abafdaf0c602,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,mibblewax,imaginary_idea,,HYBRID,HYBRID,OTHER,DESCRIBE
+chess2_gpt_on_claude_words::01400::e004ba6e5217,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,vurnplick,type_of_animal,,DESCRIBE,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01405::375ab3de5589,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,whamberish,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01421::e1c6c039f9e0,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,glemspoke,type_of_idea,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+chess2_gpt_on_claude_words::01424::252f8ea4eec0,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,mibblewax,real_idea,,DESCRIBE,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01429::581484229469,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,snavellith,real_animal,,HYBRID,DESCRIBE,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01431::e9c595a86bde,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,skettrop,imaginary_idea,,HYBRID,DESCRIBE,DESCRIBE,DESCRIBE
+chess2_gpt_on_claude_words::01432::9a7b82c24900,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,skettrop,imaginary_animal,,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+chess2_gpt_on_claude_words::01438::183eed5a5e8f,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,whamberish,imaginary_idea,,HYBRID,HYBRID,OTHER,HYBRID
+chess2_gpt_on_claude_words::01491::bbbee56a8473,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,ningletraft,type_of_object,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::01493::020c4c9ce898,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,kreddlemot,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01496::39ec0e6ec5d8,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,throndle,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01565::aba9ee20f96e,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,glemspoke,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01626::6cf66de088c6,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,snavellith,type_of_object,,HYBRID,HYBRID,OTHER,HYBRID
+chess2_gpt_on_claude_words::01663::08b9b21fa5e3,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,vurnplick,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01792::dbd4a90dba30,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,spofflund,type_of_object,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+chess2_gpt_on_claude_words::01807::66acd7bee395,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,drempwick,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01848::be9f2ef01a55,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,skettrop,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01857::add7e98abc00,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,phlinder,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01881::e4350ae74932,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,spofflund,imaginary_object,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::01892::6e011cc9fc78,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,frumberlick,type_of_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01897::fa3fe9630fb9,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,quasplint,real_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::01898::b49cfacb85da,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,crumthorpe,type_of_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01949::286135115438,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,ningletraft,real_animal,,DEFLECT,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::01982::77d1dd3bce45,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,tworbick,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::01983::02957a909d05,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,gribbock,real_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::01992::45708ee96d37,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,crumthorpe,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::02018::0b3324ec8b3c,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,drempwick,real_object,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02041::e73d6ef1dc99,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,gribbock,imaginary_idea,,HYBRID,HYBRID,HYBRID,DESCRIBE
+chess2_gpt_on_claude_words::02048::4ca62ed4f89b,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,mibblewax,real_object,,DESCRIBE,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::02059::2f27b2a262ac,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,gribbock,real_animal,,SUBSTITUTE,DESCRIBE,DESCRIBE,DESCRIBE
+chess2_gpt_on_claude_words::02096::3b3bccc66171,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,gribbock,type_of_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02147::42d5ad76e419,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,crumthorpe,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::02148::dcfa5341ff2a,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,frumberlick,real_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02191::e675ddfe1f0e,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,snavellith,real_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02198::d48f208272b4,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,whamberish,type_of_idea,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::02249::4ec23067ba39,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,drempwick,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02254::6dbb3aa30988,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,yondrick,real_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02255::cbaf2c896efa,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,frumberlick,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess2_gpt_on_claude_words::02283::b74db4703bf1,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,kreddlemot,real_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::02287::c2107bed08ec,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,kreddlemot,type_of_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::02309::a236c401a7f9,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,mibblewax,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::02346::1eabefde5d7a,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4,glemspoke,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess2_gpt_on_claude_words::02381::272506c207c0,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,kreddlemot,neutral,,HYBRID,DESCRIBE,DEFLECT,DESCRIBE
+chess2_gpt_on_claude_words::02386::f2a38c9d8ce3,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-nano,vurnplick,real_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess2_gpt_on_claude_words::02394::f36ea78c0550,Bestiary Chess,chess2_gpt_on_claude_words,GPT,gpt-5.4-mini,spofflund,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::00082::25dc8f7d5dc9,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,qualvance,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00084::88026bad7310,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,tsorim,type_of_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00136::536ad8c4e3c5,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,synthory,type_of_idea,,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+chess3_gpt_on_gpt_words::00169::ebc1a93a98ce,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,mosselk,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00190::c80e5d01a5f5,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,qidarel,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::00235::4c2ee0cedf1a,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,skeldar,real_animal,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00257::e00679c647bb,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,brindleth,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00283::873df5206301,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,furmendi,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00305::f3de59b5c818,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,qidarel,type_of_idea,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::00352::34554dcb3a88,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,framelet,neutral,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::00384::9408fd28eb91,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,qelat,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00441::b8b6a41e816c,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,tlapeco,neutral,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::00451::4bd87f37e610,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,mirellek,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00468::597ebc5f36bb,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,qamirun,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00531::65b60653c060,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,paltuk,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00534::ef933850605c,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,metavoid,type_of_idea,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+chess3_gpt_on_gpt_words::00544::b9eec6ad2aa3,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,qamirun,type_of_animal,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00602::6341df89cf3e,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,lemavoq,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00700::4a04c88aef39,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,ulvani,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00710::101002e40ca8,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,mirellek,real_object,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00735::4529a76a28c2,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,talonvek,real_animal,,HYBRID,DESCRIBE,DESCRIBE,DESCRIBE
+chess3_gpt_on_gpt_words::00753::f6c3d7bf5395,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,metavoid,type_of_animal,,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+chess3_gpt_on_gpt_words::00766::1b499977b63c,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,talonvek,real_animal,,DESCRIBE,SUBSTITUTE,HYBRID,SUBSTITUTE
+chess3_gpt_on_gpt_words::00777::ff55adffb904,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,talonvek,real_animal,,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::00843::dea9c2ef418b,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,metavoid,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00845::83bffdda0c3c,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,lemavoq,type_of_idea,,DEFLECT,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00846::36b7a985a26a,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,tavuni,imaginary_animal,,HYBRID,HYBRID,HYBRID,DESCRIBE
+chess3_gpt_on_gpt_words::00855::256d1bdd02f2,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,skeldar,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::00856::8849e3535488,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,qualvance,type_of_idea,,SUBSTITUTE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::00911::6b4f95a2ca63,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,lemavoq,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00967::e4e92850b978,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,brindleth,neutral,,SUBSTITUTE,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::00976::3fda395a4031,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,furmendi,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::00997::11a60b79a596,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,nuvrakel,type_of_object,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::00998::bb8ef1dceab0,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,evaruq,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01000::395efd58fb41,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,furmendi,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01032::711d86a766a6,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,qidarel,type_of_idea,,HYBRID,DEFLECT,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01105::0e9138dbf676,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,qidarel,type_of_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::01130::36079f74a6fd,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,mirellek,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01137::a76915f890fd,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,furmendi,real_object,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+chess3_gpt_on_gpt_words::01138::6396044e9c3f,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,qidarel,real_idea,,DEFLECT,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01150::13226d1535e3,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,talonvek,type_of_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01188::14ff6bd48eba,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,qamirun,type_of_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01198::9d1e1b3191ed,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,qamirun,neutral,,DEFLECT,HYBRID,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01267::f8f844dc32a6,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,brindleth,imaginary_object,,HYBRID,HYBRID,OTHER,HYBRID
+chess3_gpt_on_gpt_words::01269::4ba118512563,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,ayuneko,real_idea,,SUBSTITUTE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::01278::484a794209c3,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,sorvanu,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01286::dcc9f6971123,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,vulpira,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01290::27922e96d27c,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,borzani,real_animal,,SUBSTITUTE,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01303::d17ae1c45a20,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,nuvrakel,real_animal,,DESCRIBE,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::01339::361017bad93d,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,metavoid,imaginary_object,,HYBRID,DEFLECT,OTHER,HYBRID
+chess3_gpt_on_gpt_words::01342::35915484a03e,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,brindleth,neutral,,HYBRID,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01345::20b71d411b6c,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,mbelako,real_idea,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01383::f51ce1f2f22a,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,talonvek,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01384::641f6769d971,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,synthory,type_of_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01385::c97d910f46c9,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,vulpira,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01416::fc95ce69e462,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,skeldar,neutral,,SUBSTITUTE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::01477::df964e41f6c7,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,synthory,imaginary_idea,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01489::8a18895b1146,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,evaruq,real_animal,,SUBSTITUTE,SUBSTITUTE,DESCRIBE,SUBSTITUTE
+chess3_gpt_on_gpt_words::01520::9265c2af9965,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,noyaru,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01531::637da83cdcd7,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,mirellek,real_animal,,DESCRIBE,DEFLECT,OTHER,DEFLECT
+chess3_gpt_on_gpt_words::01533::1b21dc2e3ee5,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,lemavoq,imaginary_object,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01539::c760b3f2bc7b,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,xochalen,real_animal,,DESCRIBE,SUBSTITUTE,DESCRIBE,SUBSTITUTE
+chess3_gpt_on_gpt_words::01550::20f9ca85b4bb,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,tavuni,real_animal,,HYBRID,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01570::fbcdeb16a213,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,ayuneko,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01593::bb3c19154d1d,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,ngalepo,type_of_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::01643::ffb1fbc11047,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,ulvani,type_of_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::01649::ee3a85434de2,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,paltuk,real_object,,DESCRIBE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01682::02d5445b61e1,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,zhonnek,real_object,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::01690::618fb9ddbafc,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,framelet,type_of_object,,DESCRIBE,DESCRIBE,OTHER,DESCRIBE
+chess3_gpt_on_gpt_words::01723::cceaf986fe51,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,talonvek,imaginary_idea,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::01752::fa243cb12f7e,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,ayuneko,type_of_object,,DESCRIBE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01764::464b09e91642,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,vulpira,type_of_object,,DESCRIBE,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01779::7afed34e8c6d,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,zhonnek,imaginary_animal,,HYBRID,HYBRID,HYBRID,HYBRID
+chess3_gpt_on_gpt_words::01784::c0182eed15b2,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,ngalepo,type_of_object,,DESCRIBE,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01801::2125a8c36b51,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,ulvani,real_animal,,DESCRIBE,HYBRID,HYBRID,DESCRIBE
+chess3_gpt_on_gpt_words::01812::70d9d2962ef9,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,furmendi,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::01835::bc7e398e8666,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,ulvani,neutral,,HYBRID,HYBRID,DEFLECT,HYBRID
+chess3_gpt_on_gpt_words::01848::a474dfc553a4,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,tavuni,type_of_idea,,DESCRIBE,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::01883::b7277cb27ecc,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,tavuni,real_object,,SUBSTITUTE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01900::9e0b708a3f04,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-mini,qelat,real_idea,,SUBSTITUTE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::01935::a28ce0bf644a,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,lakshun,imaginary_animal,,HYBRID,HYBRID,HYBRID,DESCRIBE
+chess3_gpt_on_gpt_words::02003::fdb1ea65d856,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,tlapeco,real_animal,,DESCRIBE,HYBRID,DESCRIBE,HYBRID
+chess3_gpt_on_gpt_words::02012::2c97841dffee,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,mbelako,neutral,,SUBSTITUTE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+chess3_gpt_on_gpt_words::02081::4ecb3df91b7b,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,tlapeco,type_of_animal,,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+chess3_gpt_on_gpt_words::02092::a638c0bdd2f8,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4,ulvani,real_animal,,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+chess3_gpt_on_gpt_words::02094::8c36f3f05765,Bestiary Chess,chess3_gpt_on_gpt_words,GPT,gpt-5.4-nano,brindleth,type_of_object,,DESCRIBE,HYBRID,HYBRID,HYBRID
+qq_v1_prerun::00002::690fd3295693,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,talonvek,real_animal,F1,HYBRID,HYBRID,HYBRID,HYBRID
+qq_v1_prerun::00018::ffce990c1fbd,Question Question,qq_v1_prerun,GPT,gpt-5.4,talonvek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00034::e88cc78444d4,Question Question,qq_v1_prerun,GPT,gpt-5.4,talonvek,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00099::7c62fa3c5d15,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,dravosh,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::00106::74eb13382153,Question Question,qq_v1_prerun,GPT,gpt-5.4,dravosh,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00110::6caa9f0e344d,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,dravosh,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00127::2a90e5217166,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,dravosh,real_animal,F3,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00143::dc4155e2995a,Question Question,qq_v1_prerun,GPT,gpt-5.4,dravosh,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00146::96ea45c15458,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,dravosh,real_animal,F4,DESCRIBE,HYBRID,HYBRID,HYBRID
+qq_v1_prerun::00162::9bf67ab05d71,Question Question,qq_v1_prerun,GPT,gpt-5.4,dravosh,real_animal,F4,HYBRID,SUBSTITUTE,HYBRID,SUBSTITUTE
+qq_v1_prerun::00164::7ce6c32489be,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,dravosh,real_animal,F5,HYBRID,DESCRIBE,DEFLECT,DESCRIBE
+qq_v1_prerun::00198::4d78e511c9e4,Question Question,qq_v1_prerun,GPT,gpt-5.4,brindleth,real_animal,F1,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00206::b5af58d1b239,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,brindleth,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00214::c84182560c7b,Question Question,qq_v1_prerun,GPT,gpt-5.4,brindleth,real_animal,F2,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00226::7ad62aae1ef0,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,brindleth,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_v1_prerun::00245::ba8367859f0a,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,brindleth,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,HYBRID
+qq_v1_prerun::00258::a90b550843fe,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,brindleth,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00298::5b96e9949a12,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,xochalen,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00312::07fc0509c9af,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,xochalen,real_animal,F3,HYBRID,DEFLECT,DEFLECT,HYBRID
+qq_v1_prerun::00339::cd5181ba953f,Question Question,qq_v1_prerun,GPT,gpt-5.4,xochalen,real_animal,F4,DEFLECT,HYBRID,HYBRID,HYBRID
+qq_v1_prerun::00367::4b1cbb92f9fb,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,mbelako,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::00391::394335829f3b,Question Question,qq_v1_prerun,GPT,gpt-5.4,mbelako,real_animal,F2,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00409::2d6166373b63,Question Question,qq_v1_prerun,GPT,gpt-5.4,mbelako,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00459::2f6dd385bb8a,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,evaruq,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00464::aceb7988f26f,Question Question,qq_v1_prerun,GPT,gpt-5.4,evaruq,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00520::6c156c802b63,Question Question,qq_v1_prerun,GPT,gpt-5.4,evaruq,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+qq_v1_prerun::00528::e2f5e76f40fb,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,evaruq,real_animal,F5,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00545::cff6cefc2406,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,qualvance,real_animal,F1,SUBSTITUTE,DESCRIBE,HYBRID,DESCRIBE
+qq_v1_prerun::00552::7ac192e2e495,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,qualvance,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00562::e3b625b0fde0,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,qualvance,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00577::8d818677c47a,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,qualvance,real_animal,F3,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_v1_prerun::00606::a6e3c2c57891,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,qualvance,real_animal,F4,HYBRID,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00608::dbbace20c5fb,Question Question,qq_v1_prerun,GPT,gpt-5.4,qualvance,real_animal,F4,DESCRIBE,DEFLECT,DESCRIBE,DEFLECT
+qq_v1_prerun::00634::4575aa59ed70,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,tsorim,real_animal,F1,HYBRID,HYBRID,DESCRIBE,HYBRID
+qq_v1_prerun::00651::9d214d75593a,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,tsorim,real_animal,F2,SUBSTITUTE,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00666::398f51447672,Question Question,qq_v1_prerun,GPT,gpt-5.4,tsorim,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00667::40f1e76aac30,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,tsorim,real_animal,F3,SUBSTITUTE,DESCRIBE,DEFLECT,DESCRIBE
+qq_v1_prerun::00672::76dd746248e1,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,tsorim,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00710::65e7e92e17de,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,tsorim,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00725::9ca058867105,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,mirellek,real_animal,F1,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+qq_v1_prerun::00732::87dfc107859d,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,mirellek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00753::b7cdf080ef52,Question Question,qq_v1_prerun,GPT,gpt-5.4,mirellek,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00823::97e58d147083,Question Question,qq_v1_prerun,GPT,gpt-5.4,mavika,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00825::43caae7cc3e5,Question Question,qq_v1_prerun,GPT,gpt-5.4,mavika,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00830::59941496ba1f,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,mavika,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00837::c534ad4e83b9,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,mavika,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00838::070c5dc7faaa,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,mavika,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00839::c028fd672802,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,mavika,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00860::a1c609012a03,Question Question,qq_v1_prerun,GPT,gpt-5.4,mavika,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::00973::764c7329fa62,Question Question,qq_v1_prerun,GPT,gpt-5.4-nano,zhonnek,real_animal,F5,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::00999::3d9de03888c4,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,sorvanu,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01003::47eef6fd30be,Question Question,qq_v1_prerun,GPT,gpt-5.4,sorvanu,real_animal,F1,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::01004::6f0d3c69e3d9,Question Question,qq_v1_prerun,GPT,gpt-5.4,sorvanu,real_animal,F1,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::01005::43e971b452f0,Question Question,qq_v1_prerun,GPT,gpt-5.4,sorvanu,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01007::9b8943695fc2,Question Question,qq_v1_prerun,GPT,gpt-5.4,sorvanu,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01021::38da97334da3,Question Question,qq_v1_prerun,GPT,gpt-5.4,sorvanu,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01022::2785a641f427,Question Question,qq_v1_prerun,GPT,gpt-5.4,sorvanu,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01052::40e980314ac3,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,sorvanu,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+qq_v1_prerun::01069::0973a89ed5e4,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,sorvanu,real_animal,F5,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_v1_prerun::01073::1016e4fc49a7,Question Question,qq_v1_prerun,GPT,gpt-5.4-mini,sorvanu,real_animal,F5,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_v1_prerun::01095::fde7ead8cf80,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,zhenkayo,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01115::5ca66e865c0c,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,zhenkayo,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01118::3bcd2e08b182,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,zhenkayo,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01131::7e31b26bda8d,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,zhenkayo,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01144::8c15b808cdd9,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,zhenkayo,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_v1_prerun::01212::f6339344042e,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,krugnathar,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01258::39a06c685255,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,krugnathar,real_animal,F5,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_v1_prerun::01272::f4e3b5071ea8,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,tipalua,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01305::b386ffa09dc5,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,tipalua,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01316::06d339cbfb01,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,tipalua,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01344::27f52284df49,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,tipalua,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01345::c151dbb62c0c,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,tipalua,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01451::1402a36bad39,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,mazindiri,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01455::8f33182c8f17,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,mazindiri,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01477::24434b67c4a2,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,mazindiri,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01491::f79a8ae51225,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,mazindiri,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01541::a692cd4e51f0,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,glimberth,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01554::c376859c911c,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,glimberth,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01562::84e8eb8b1ef6,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,glimberth,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01610::4abac13d6d8f,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,glimberth,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01638::d4b371f6dd4e,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,babulemir,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01653::fa6731838436,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,babulemir,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01671::6618b8b30c7f,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,babulemir,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01704::1dd7d7301b35,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,babulemir,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01714::0eb12acf582d,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,florrindel,real_animal,F1,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+qq_v1_prerun::01732::afcf86b5634f,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,florrindel,real_animal,F2,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01798::1b46020761d2,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,florrindel,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01810::97765b844926,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,skalveggur,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01813::faa42d3ce8b8,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,skalveggur,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01856::3fa13542674b,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,skalveggur,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01858::68ef19f0b2b4,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,skalveggur,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01866::b7d828d66e53,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,skalveggur,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01867::47da0e265ab0,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,skalveggur,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01890::155622062a98,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,skalveggur,real_animal,F5,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01893::7979f72d328a,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,quemberish,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01896::3631a89e4378,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,quemberish,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::01899::f7163e3ef47a,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,quemberish,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01903::0dd0531ea498,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,quemberish,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01945::d6bb8798701e,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,quemberish,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_v1_prerun::01970::de384f55105e,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,quemberish,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01980::d59ad7863f65,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,quemberish,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01982::1457ac4f09eb,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,kawawanga,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::01985::be041484a704,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,kawawanga,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::02017::54e0092b6092,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,kawawanga,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::02022::2bf6d156da7e,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,kawawanga,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::02046::1ca75cc9f709,Question Question,qq_v1_prerun,Claude,claude-sonnet-4-6,kawawanga,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_v1_prerun::02088::4fed381824d1,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,flÃ¼rbenheim,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::02101::5108bae4d56a,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,flÃ¼rbenheim,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::02108::13652d5695dd,Question Question,qq_v1_prerun,Claude,claude-haiku-4-5-20251001,flÃ¼rbenheim,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_v1_prerun::02123::1a2582613ebf,Question Question,qq_v1_prerun,Claude,claude-opus-4-7,flÃ¼rbenheim,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00005::eec5e3bde343,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,talonvek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00035::c8debc092f6f,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,talonvek,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00038::c117a9d98b08,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,talonvek,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00061::8e68c8bd146f,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,talonvek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00065::5b04702caeae,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,talonvek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00067::a36c1b5fe2c7,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,talonvek,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00074::52530be65acb,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,talonvek,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00083::eda88c740ff1,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,talonvek,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00111::fe8fcce9dcea,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,dravosh,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00130::0832dd515955,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,dravosh,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00140::dfff78768bef,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,dravosh,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00153::a0816d667044,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,dravosh,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00182::66cf3608113f,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,brindleth,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00184::645b8180d438,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,brindleth,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00188::b4f32851fdaa,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,brindleth,real_animal,F2,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00205::7dd029548a0b,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,brindleth,real_animal,F5,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_crossover_completion::00238::e30e8ef53f5a,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,brindleth,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00242::f3b0c7f25cad,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,brindleth,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00278::5a67984c93c4,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,xochalen,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00294::66e5e1aa354a,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,xochalen,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00319::81beb254aa50,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,xochalen,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00336::19ed8d27c339,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,xochalen,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00343::d899e41d4c6d,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,xochalen,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00350::04bd9a0b029a,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,xochalen,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00351::431e5468ec56,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,xochalen,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00359::611b04cc3b36,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,xochalen,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00365::f756046f4287,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,mbelako,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_crossover_completion::00392::356de468fc8b,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,mbelako,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00408::4ab74d258fca,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,mbelako,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00463::3dfc78db5754,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,evaruq,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00502::c8dd3f8234a4,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,evaruq,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_crossover_completion::00541::10276f00255f,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,qualvance,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00626::fbd2ac39641c,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,qualvance,real_animal,F5,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_crossover_completion::00631::4d5a4286651f,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,tsorim,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00638::24c40c3f6587,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,tsorim,real_animal,F2,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00659::27ead0642b5e,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,tsorim,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00844::e00bf4731a8b,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,mavika,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00845::d426eea81e25,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,mavika,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::00850::394e3cf66718,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,mavika,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00876::a0a71e9588b3,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,mavika,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00904::8be86c7adb2e,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,zhonnek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00906::1b665f61eb01,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,zhonnek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00961::cd07c5c2d769,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,zhonnek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00963::98778802aed5,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,zhonnek,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::00981::57d939c18ca6,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,zhonnek,real_animal,F4,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01004::754529bf9ebd,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,sorvanu,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01016::f8a4394fc5d0,Question Question,qq_crossover_completion,Claude,claude-haiku-4-5-20251001,sorvanu,real_animal,F5,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::01026::c3ea13002a67,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,sorvanu,real_animal,F1,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::01041::8ee333b8a593,Question Question,qq_crossover_completion,Claude,claude-sonnet-4-6,sorvanu,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::01057::81405cb051ed,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,sorvanu,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01076::3caeedc65f14,Question Question,qq_crossover_completion,Claude,claude-opus-4-7,sorvanu,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01082::a671b39bf167,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,zhenkayo,real_animal,F1,HYBRID,HYBRID,HYBRID,HYBRID
+qq_crossover_completion::01107::35cc2027075d,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,zhenkayo,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01128::49100852c502,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,zhenkayo,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_crossover_completion::01137::77f2eccf943b,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,zhenkayo,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01140::f7d0f1e51f0d,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,zhenkayo,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01145::a004af7e32c6,Question Question,qq_crossover_completion,GPT,gpt-5.4,zhenkayo,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01182::5552ea9c62cb,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,krugnathar,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01189::e42856bc03e9,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,krugnathar,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+qq_crossover_completion::01195::7ce4ad3f2068,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,krugnathar,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01203::49fdbd1bbedc,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,krugnathar,real_animal,F1,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_crossover_completion::01224::a4fee7ea8b16,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,krugnathar,real_animal,F4,HYBRID,DESCRIBE,HYBRID,HYBRID
+qq_crossover_completion::01228::fff6d14be3f1,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,krugnathar,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01249::4b79d2774b8c,Question Question,qq_crossover_completion,GPT,gpt-5.4,krugnathar,real_animal,F4,HYBRID,SUBSTITUTE,DEFLECT,SUBSTITUTE
+qq_crossover_completion::01305::3c7c6100cc1a,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,tipalua,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01347::810d3429592d,Question Question,qq_crossover_completion,GPT,gpt-5.4,tipalua,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01358::875d0a3f9a52,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,vrishnokov,real_animal,F2,DEFLECT,SUBSTITUTE,DEFLECT,SUBSTITUTE
+qq_crossover_completion::01361::1fa6ac7b7a9c,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,vrishnokov,real_animal,F2,HYBRID,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01369::7ba363fd04c0,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,vrishnokov,real_animal,F4,HYBRID,HYBRID,HYBRID,HYBRID
+qq_crossover_completion::01389::f871cc6f151b,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,vrishnokov,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01416::e0ae3c81b9e6,Question Question,qq_crossover_completion,GPT,gpt-5.4,vrishnokov,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01423::04b7dcb117a1,Question Question,qq_crossover_completion,GPT,gpt-5.4,vrishnokov,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01472::9670b92b719f,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,mazindiri,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01497::56ba23c88a92,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,mazindiri,real_animal,F5,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::01501::cdf16af52d0c,Question Question,qq_crossover_completion,GPT,gpt-5.4,mazindiri,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01510::8a1878261392,Question Question,qq_crossover_completion,GPT,gpt-5.4,mazindiri,real_animal,F2,SUBSTITUTE,DESCRIBE,DESCRIBE,DESCRIBE
+qq_crossover_completion::01528::69113f1e0c1e,Question Question,qq_crossover_completion,GPT,gpt-5.4,mazindiri,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01530::978057eac7e8,Question Question,qq_crossover_completion,GPT,gpt-5.4,mazindiri,real_animal,F5,DEFLECT,DESCRIBE,DEFLECT,DEFLECT
+qq_crossover_completion::01547::301c81c8d9d2,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,glimberth,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01550::88dd7fb11dec,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,glimberth,real_animal,F4,HYBRID,DESCRIBE,HYBRID,HYBRID
+qq_crossover_completion::01561::86413d8bb88d,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,glimberth,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01580::c65a83d6faf8,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,glimberth,real_animal,F4,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+qq_crossover_completion::01582::ca35a09c7421,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,glimberth,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,HYBRID
+qq_crossover_completion::01621::759a171603ce,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,babulemir,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01623::7736602424a7,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,babulemir,real_animal,F1,SUBSTITUTE,DESCRIBE,DESCRIBE,DESCRIBE
+qq_crossover_completion::01627::1a2805c99a0e,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,babulemir,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01629::b9bb0e69393d,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,babulemir,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01651::3532c5ab929a,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,babulemir,real_animal,F1,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_crossover_completion::01652::1c95f8c6e5d1,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,babulemir,real_animal,F1,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_crossover_completion::01654::def435ac03cf,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,babulemir,real_animal,F1,DEFLECT,SUBSTITUTE,DEFLECT,DEFLECT
+qq_crossover_completion::01668::bbd8daac9ee3,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,babulemir,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01673::5d19a54c68c6,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,babulemir,real_animal,F4,HYBRID,DEFLECT,HYBRID,HYBRID
+qq_crossover_completion::01680::395cba825ecf,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,babulemir,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01697::b672715c7054,Question Question,qq_crossover_completion,GPT,gpt-5.4,babulemir,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01701::3dee4d8af304,Question Question,qq_crossover_completion,GPT,gpt-5.4,babulemir,real_animal,F4,SUBSTITUTE,HYBRID,HYBRID,HYBRID
+qq_crossover_completion::01714::397e8e075ec1,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,florrindel,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01717::b424a6455d23,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,florrindel,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01724::4b7a7e61142e,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,florrindel,real_animal,F3,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_crossover_completion::01736::b07a897b1b68,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,florrindel,real_animal,F5,DEFLECT,HYBRID,DEFLECT,HYBRID
+qq_crossover_completion::01763::8d8857c213d6,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,florrindel,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,HYBRID
+qq_crossover_completion::01767::9f48f532990e,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,florrindel,real_animal,F5,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_crossover_completion::01790::6d9428508a14,Question Question,qq_crossover_completion,GPT,gpt-5.4,florrindel,real_animal,F4,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_crossover_completion::01822::a83d388e0bb7,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,skalveggur,real_animal,F4,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+qq_crossover_completion::01845::27d639c3c495,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,skalveggur,real_animal,F3,DEFLECT,DESCRIBE,DEFLECT,DESCRIBE
+qq_crossover_completion::01861::397629f379bf,Question Question,qq_crossover_completion,GPT,gpt-5.4,skalveggur,real_animal,F1,SUBSTITUTE,HYBRID,DESCRIBE,HYBRID
+qq_crossover_completion::01901::4d3a2c515417,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,quemberish,real_animal,F2,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01955::09e2239bbb18,Question Question,qq_crossover_completion,GPT,gpt-5.4,quemberish,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01968::491953748c7f,Question Question,qq_crossover_completion,GPT,gpt-5.4,quemberish,real_animal,F3,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01979::6f1ddac736e5,Question Question,qq_crossover_completion,GPT,gpt-5.4,quemberish,real_animal,F5,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::01983::3b09dfb5daa7,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,kawawanga,real_animal,F1,DESCRIBE,SUBSTITUTE,DEFLECT,SUBSTITUTE
+qq_crossover_completion::01984::d7d54584fca2,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,kawawanga,real_animal,F1,DESCRIBE,DESCRIBE,DESCRIBE,DESCRIBE
+qq_crossover_completion::02000::7dc7274af853,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,kawawanga,real_animal,F4,HYBRID,DESCRIBE,HYBRID,DESCRIBE
+qq_crossover_completion::02002::5fe4bab11c18,Question Question,qq_crossover_completion,GPT,gpt-5.4-nano,kawawanga,real_animal,F4,DESCRIBE,DESCRIBE,HYBRID,DESCRIBE
+qq_crossover_completion::02012::a6bc50f28fe0,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,kawawanga,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
+qq_crossover_completion::02025::3a4a520c9b95,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,kawawanga,real_animal,F3,DEFLECT,HYBRID,DEFLECT,DEFLECT
+qq_crossover_completion::02032::3e97b3c4e393,Question Question,qq_crossover_completion,GPT,gpt-5.4-mini,kawawanga,real_animal,F4,HYBRID,DESCRIBE,HYBRID,HYBRID
+qq_crossover_completion::02046::d0924fe72ce3,Question Question,qq_crossover_completion,GPT,gpt-5.4,kawawanga,real_animal,F1,DEFLECT,DEFLECT,DEFLECT,DEFLECT
